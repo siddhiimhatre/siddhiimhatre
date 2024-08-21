@@ -1,7 +1,7 @@
 ## Hi I'm Siddhi 👋
-# 🚀 Software Developer (Pro in Frontend)
-# 🤖 AI/ML Enthusiast
-# 🌱 Constant Learner
+### 🚀 Software Developer (Pro in Frontend)
+### 🤖 AI/ML Enthusiast
+### 🌱 Constant Learner
 
 🔭 Passionate about software development and the AI/ML field.
 💻 Proficient in HTML, CSS, and JavaScript with hands-on practice.
